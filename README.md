@@ -128,11 +128,7 @@ Developed an interactive HR Analytics Dashboard featuring:
 
 ---
 
-## Dashboard Preview
 
-(Add dashboard screenshot here)
-
----
 
 ## Project Structure
 
